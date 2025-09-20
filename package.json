@@ -1,0 +1,12 @@
+{
+  "name": "@portal-solutions/beenest",
+  "workspaces": [
+    "packages/beenest-worker-core"
+  ],
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "@cloudflare/workers-types": "^4.20250820.0"
+  }
+}
