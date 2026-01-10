@@ -1,13 +1,14 @@
 # @portal-solutions/beenest
 
 ## Description
-Project beenest
+A monorepo for "beenest" services, including worker core packages. Likely involves Cloudflare Workers integration.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Develop worker core packages
+- [ ] Integrate with Cloudflare Workers ecosystem
 
 ## Progress
-- [ ] Initial setup
+- [ ] Workspace initialized with `beenest-worker-core`
 
 ---
 *AI assisted*
